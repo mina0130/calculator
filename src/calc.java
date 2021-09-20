@@ -16,7 +16,7 @@ public class calc {
                 case '+': ans = num1 + num2;//a1
                     break;
                 case '-': ans = num1 - num2;
-                    break;
+                    break; hgfggfh
                 case '*': ans = num1 * num2;
                     break;
                 case '/': ans = num1 / num2;
