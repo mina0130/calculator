@@ -26,7 +26,7 @@ public class calculator2 {
             }
             System.out.print("\nThe result is given as follows:\n");
             System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
-            System.out.println("system")
+
         }
 
 }
