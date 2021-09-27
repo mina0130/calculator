@@ -13,7 +13,7 @@ public class calculator2 {
             System.out.print("\nEnter an operator (+, -, *, /): ");
             op = reader.next().charAt(0);
             switch(op) {
-                case '+': ans = num1 + num2;//a1
+                case '+': ans = num1 * num2;//a1
                     break;
                 case '-': ans = num1 - num2;
                     break;
@@ -26,7 +26,7 @@ public class calculator2 {
             }
             System.out.print("\nThe result is given as follows:\n");
             System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
-            System.out.println("system")
+            System.out.println("system");
         }
 
 }
