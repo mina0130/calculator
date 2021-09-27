@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class calc {
+public class calculator2 {
 
         public static void main(String[] args) {
             double num1;
@@ -16,7 +16,7 @@ public class calc {
                 case '+': ans = num1 + num2;//a1
                     break;
                 case '-': ans = num1 - num2;
-                    break; hgfggfh
+                    break;
                 case '*': ans = num1 * num2;
                     break;
                 case '/': ans = num1 / num2;
@@ -26,6 +26,7 @@ public class calc {
             }
             System.out.print("\nThe result is given as follows:\n");
             System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
+            System.out.println("system")
         }
 
 }
