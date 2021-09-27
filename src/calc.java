@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class calculator2 {
-
+//hej fra master
         public static void main(String[] args) {
             double num1;
             double num2;
